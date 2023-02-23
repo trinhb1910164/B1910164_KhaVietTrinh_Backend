@@ -1,9 +1,9 @@
 {
-  "name": "contactbook_backend",
+  "name": "contactbook-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "script": {
+  "scripts": {
     "start": "nodemon server.js"
   },
   "author": "Kha Viet Trinh",
